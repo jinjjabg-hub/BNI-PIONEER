@@ -1,0 +1,49 @@
+{
+  "kisu": {
+    "current": "8기",
+    "launchDate": "2022년 11월 9일",
+    "activeHalf": "전반기"
+  },
+  "chairmen": [
+    {
+      "role": "의장",
+      "name": "권두현",
+      "company": "오직중문만",
+      "desc": "챕터 최고 책임자",
+      "color": "red"
+    },
+    {
+      "role": "부의장",
+      "name": "김지현",
+      "company": "감성온도",
+      "desc": "멤버쉽위원회 위원장 겸직",
+      "color": "red"
+    },
+    {
+      "role": "ST (총무 및 서기)",
+      "name": "조현우",
+      "company": "디에이치원",
+      "desc": "회의 진행 · 총무 · 서기",
+      "color": "dark"
+    }
+  ],
+  "membershipCommittee": {
+    "chairLabel": "위원장",
+    "chairName": "김지현 (부의장 겸)",
+    "members": [
+      { "role": "커뮤니케이션", "name": "임춘식" },
+      { "role": "트래픽 라이트", "name": "송승훈" },
+      { "role": "출결", "name": "최경수" },
+      { "role": "인터뷰", "name": "심학봉" }
+    ]
+  },
+  "leadershipTeam": [
+    { "icon": "📚", "role": "교육코디", "name": "박진성", "company": "(주)진성부동산중개법인" },
+    { "icon": "🤝", "role": "멘토링코디", "name": "홍정택", "company": "스타인컴퍼니" },
+    { "icon": "📈", "role": "성장코디", "name": "이화춘", "company": "이화춘뷰티랩" },
+    { "icon": "📣", "role": "PR코디", "name": "김윤호", "company": "(주)거북축산" },
+    { "icon": "🎉", "role": "이벤트코디", "name": "정명수", "company": "(주)에어컨설팅" },
+    { "icon": "🙋", "role": "비지터호스트리더", "name": "김주찬", "company": "이미지노마드" },
+    { "icon": "🚪", "role": "도어퍼슨장", "name": "신명철", "company": "앰비언트 광고", "full": true }
+  ]
+}
